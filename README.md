@@ -6,11 +6,13 @@ We are dedicated to providing a great puzzle experience. If you have questions a
 
 ## Contact Us
 **Email:** gliderkrisomallos@gmail.com
+
 **Response Time:** We aim to reply to all inquiries within 48 hours.
 
 ---
 
-**Privacy Policy for Words Parlor**
+## Privacy Policy for Words Parlor
+
 Last Updated: December 16, 2025
 
 1. **Introduction:** Welcome to Words Parlor. We respect your privacy and are committed to protecting it. This policy explains how we handle your information when you play our game.
